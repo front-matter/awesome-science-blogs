@@ -4,7 +4,7 @@
 
 A curated list of Quarto science blogs. Inspired by [Awesome Quarto](https://github.com/mcanouil/awesome-quarto), but focused on science blogs using the Quarto platform.
 
-[Quarto®](https://quarto.org) is an open-source scientific and technical publishing system built on [Pandoc]([Pandoc](https://pandoc.org/)).
+[Quarto](https://quarto.org) is an open-source scientific and technical publishing system built on [Pandoc]([Pandoc](https://pandoc.org/)).
 
 ---
 
@@ -15,7 +15,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ---
 
-## Contents
+## Contents (grouped by OECD fields of science)
 
 ### Computer and information sciences
 
