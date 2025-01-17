@@ -11,7 +11,7 @@ A curated list of Quarto science blogs. Inspired by [Awesome Quarto](https://git
 Contributions of any kind are welcome, just follow the [guidelines](.github/CONTRIBUTING.md) by either:
 
 - Filing a [suggestion issue](https://github.com/front-matter/awesome-science-blogs/issues/new?assignees=mfenner&labels=&template=suggestion.yml) (easier).
-- Opening a [pull request](https://github.com/front-matter/awesome-science-blogs/compare).
+- Opening a [pull request](https://github.com/front-matter/awesome-science-blogs/pulls).
 
 ---
 
