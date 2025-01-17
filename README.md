@@ -23,6 +23,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [dataand.me](https://dataand.me/) - Mara Averick's posts, notes, and talks on open-source, data science, and data visualization featuring R.
 - [Research Group Information Management @ Humboldt-Universität zu Berlin](https://infomgnt.org/) - Research Group Information Management @ Humboldt-Universität zu Berlin.
 - [tarleb](https://tarleb.com/index.html) - tarleb's blog.
+- [Infra Wiss Blogs](https://infrawissblogs.org/) - Kooperative Informationsinfrastruktur für wissenschaftliche Blogs.
 
 ### Natural sciences
 
