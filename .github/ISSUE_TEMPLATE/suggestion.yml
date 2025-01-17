@@ -10,7 +10,7 @@ body:
   - type: input
     id: suggestion
     attributes:
-      label: Link to blog suggestion
+      label: Link to suggested blog
       description: Please share a link to your suggested blog
       placeholder: https://...
     validations:
@@ -20,7 +20,7 @@ body:
     validations:
       required: true
     attributes:
-      label: Targeted field of science
+      label: Targeted field of science (OECD)
       description: Please select the field of science you wish your blog suggestion to appear in.
       multiple: false
       options:
@@ -79,7 +79,7 @@ body:
       description: |
         When filing a _suggestion_, please check the boxes below to confirm that you have:
       options:
-        - label: checked if your suggestion is not already listed in __Awesome science blogs__ list.
+        - label: checked that your suggestion is not already listed in __Awesome science blogs__ list.
           required: true
         - label: checked when if the blog is actively publishing (at least one post in the past 12 months).
           required: true
