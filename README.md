@@ -27,7 +27,8 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Notes from a data witch](https://blog.djnavarro.net/)
 - [Silvia Canelón](https://silviacanelon.com/)
 - [Meghan Hall](https://meghan.rbind.io/)
-  
+- [Albert Rapp](https://albert-rapp.de/blog)
+
 ### Natural sciences
 
 - [Chris von Csefalvay](https://chrisvoncsefalvay.com/posts/index.html) - Chris von Csefalvay is a computational epidemiologist/data scientist working at the intersection of AI, epidemiology and public health.
