@@ -26,6 +26,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Infra Wiss Blogs](https://infrawissblogs.org/) - Kooperative Informationsinfrastruktur für wissenschaftliche Blogs.
 - [Notes from a data witch](https://blog.djnavarro.net/)
 - [Silvia Canelón](https://silviacanelon.com/)
+- [Meghan Hall](https://meghan.rbind.io/)
   
 ### Natural sciences
 
