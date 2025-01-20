@@ -25,7 +25,8 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [tarleb](https://tarleb.com/index.html) - tarleb's blog.
 - [Infra Wiss Blogs](https://infrawissblogs.org/) - Kooperative Informationsinfrastruktur für wissenschaftliche Blogs.
 - [Notes from a data witch](https://blog.djnavarro.net/)
-
+- [Silvia Canelón](https://silviacanelon.com/)
+  
 ### Natural sciences
 
 - [Chris von Csefalvay](https://chrisvoncsefalvay.com/posts/index.html) - Chris von Csefalvay is a computational epidemiologist/data scientist working at the intersection of AI, epidemiology and public health.
