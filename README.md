@@ -70,6 +70,10 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 - [Andrew Heiss's blog](https://www.andrewheiss.com/) - Andrew Heiss's blog.
 
+### Psychology
+
+- [crumplab](https://www.crumplab.com/Blog.html)
+  
 ### Economics and business
 
 - [Risk Taker!](https://hcostax.com/blog/) - I'm a backpacker sharing my journey into quantitative financial risks in the hopes that you don't have to suffer on your journey too.
