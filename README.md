@@ -29,6 +29,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 - [Chris von Csefalvay](https://chrisvoncsefalvay.com/posts/index.html) - Chris von Csefalvay is a computational epidemiologist/data scientist working at the intersection of AI, epidemiology and public health.
 - [De esto no hay tesis](https://www.nohaytesispodcast.com/)
+- [Mickaël Canouil](https://mickael.canouil.fr/)
 
 ### Earth and related environmental sciences
 
