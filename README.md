@@ -24,6 +24,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Research Group Information Management @ Humboldt-Universität zu Berlin](https://infomgnt.org/) - Research Group Information Management @ Humboldt-Universität zu Berlin.
 - [tarleb](https://tarleb.com/index.html) - tarleb's blog.
 - [Infra Wiss Blogs](https://infrawissblogs.org/) - Kooperative Informationsinfrastruktur für wissenschaftliche Blogs.
+- [Notes from a data witch](https://blog.djnavarro.net/)
 
 ### Natural sciences
 
