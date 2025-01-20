@@ -24,8 +24,8 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Research Group Information Management @ Humboldt-Universität zu Berlin](https://infomgnt.org/) - Research Group Information Management @ Humboldt-Universität zu Berlin.
 - [tarleb](https://tarleb.com/index.html) - tarleb's blog.
 - [Infra Wiss Blogs](https://infrawissblogs.org/) - Kooperative Informationsinfrastruktur für wissenschaftliche Blogs.
-- [Notes from a data witch](https://blog.djnavarro.net/)
-- [Silvia Canelón](https://silviacanelon.com/)
+- [Notes from a data witch](https://blog.djnavarro.net/) - A data science blog by Danielle Navarro.
+- [Silvia Canelón](https://silviacanelon.com/) - This is my blog where I practice sharing my curiosity about R.<br> It includes notes and tutorials for my future self and hopefully also for you.<br><br> {{< fa envelope >}} Sign up for my [newsletter](/contact.html#buttondown) to receive updates about new posts.
 - [Meghan Hall](https://meghan.rbind.io/)
 - [Albert Rapp](https://albert-rapp.de/blog)
 - [Rebecca Barter](https://rebeccabarter.com/)
@@ -73,7 +73,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ### Psychology
 
-- [crumplab](https://www.crumplab.com/Blog.html)
+- [crumplab](https://www.crumplab.com/Blog.html) - Various musings, usually about cognition, teaching, and other stuff, incomplete notes, digital breadcrumbs on scratchpads.
   
 ### Economics and business
 
