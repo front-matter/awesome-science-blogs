@@ -33,11 +33,12 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ### Earth and related environmental sciences
 
-* [kumulonimbus](https://kumulonimb.us/) - Jorge Saturno es investigador en calidad del aire y ciencia de los aerosoles.
+- [kumulonimbus](https://kumulonimb.us/) - Jorge Saturno es investigador en calidad del aire y ciencia de los aerosoles.
+- [Mike Mahoney](https://www.mm218.dev/)
 
 ### Other natural sciences
 
-* [Data & Molecule Bits](https://giorgioluciano.github.io/listing.html) - Provides tutorials  alongside practical examples in R. Topics include statistical simulations, data visualization, and common challenges in scientific analysis. The content is designed to offer useful insights for those working with data.
+- [Data & Molecule Bits](https://giorgioluciano.github.io/listing.html) - Provides tutorials  alongside practical examples in R. Topics include statistical simulations, data visualization, and common challenges in scientific analysis. The content is designed to offer useful insights for those working with data.
 
 ### Medical and health sciences
 
