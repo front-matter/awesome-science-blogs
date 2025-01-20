@@ -28,6 +28,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Silvia Canelón](https://silviacanelon.com/)
 - [Meghan Hall](https://meghan.rbind.io/)
 - [Albert Rapp](https://albert-rapp.de/blog)
+- [Rebecca Barter](https://rebeccabarter.com/)
 
 ### Natural sciences
 
