@@ -39,6 +39,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 - [kumulonimbus](https://kumulonimb.us/) - Jorge Saturno es investigador en calidad del aire y ciencia de los aerosoles.
 - [Mike Mahoney](https://www.mm218.dev/)
+- [Beatriz Milz](https://beamilz.com/)
 
 ### Other natural sciences
 
