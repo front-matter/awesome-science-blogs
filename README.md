@@ -62,6 +62,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 ### Engineering and technology
 
 - [Dual Power Supply](https://dualpower.supply/) - Kirk Smith's personal blog.
+- [Flow Battery Research Collective](https://fbrc.dev)
 
 ### Social science
 
